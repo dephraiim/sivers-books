@@ -17,16 +17,26 @@ async function createMarkdownFiles() {
         : "";
 
       const markdown = `## ${book.title}
+> Recommendation: ${book.recommendationRating} / 10
     
 ### Description
 ${description}
     
 ### Notes
 ${notes}
-          `;
+`;
 
-      const fileName = "notes/" + book.notesUrl.split("/").pop() + ".md";
-      await Bun.write(fileName, markdown);
+      const fileName =
+        "notes/" +
+        (parseInt(books.indexOf(book)) + 1).toString() +
+        "-" +
+        book.notesUrl.split("/").pop() +
+        ".md";
+      await Bun.write(fileName, markdown).then((bytesWritten) => {
+        console.log(
+          `Book notes written to ${fileName} (${bytesWritten} bytes)`
+        );
+      });
     }
   } catch (error) {
     console.error("Error:", error);
