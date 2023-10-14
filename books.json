@@ -1,1522 +1,1902 @@
 [
   {
     "title": "You Can Negotiate Anything - by Herb Cohen",
-    "recommendationRating": 10
+    "recommendationRating": 10,
+    "notesUrl": "https://sive.rs/book/NegotiateAnything"
   },
   {
     "title": "The Listening Book - by W.A. Mathieu",
-    "recommendationRating": 10
+    "recommendationRating": 10,
+    "notesUrl": "https://sive.rs/book/ListeningBook"
   },
   {
     "title": "The Courage to Be Disliked - by Ichiro Kishimi and Fumitake Koga",
-    "recommendationRating": 10
+    "recommendationRating": 10,
+    "notesUrl": "https://sive.rs/book/Disliked"
   },
   {
     "title": "Sum: Forty Tales from the Afterlives - by David Eagleman",
-    "recommendationRating": 10
+    "recommendationRating": 10,
+    "notesUrl": "https://sive.rs/book/Sum"
   },
   {
     "title": "The Gardener and the Carpenter - by Alison Gopnik",
-    "recommendationRating": 10
+    "recommendationRating": 10,
+    "notesUrl": "https://sive.rs/book/GardenerCarpenter"
   },
   {
     "title": "Playful Parenting - by Lawrence Cohen",
-    "recommendationRating": 10
+    "recommendationRating": 10,
+    "notesUrl": "https://sive.rs/book/PlayfulParenting"
   },
   {
     "title": "On Writing Well - by William Zinsser",
-    "recommendationRating": 10
+    "recommendationRating": 10,
+    "notesUrl": "https://sive.rs/book/OnWritingWell"
   },
   {
     "title": "The War of Art - by Steven Pressfield",
-    "recommendationRating": 10
+    "recommendationRating": 10,
+    "notesUrl": "https://sive.rs/book/WarOfArt"
   },
   {
     "title": "Stumbling on Happiness - by Daniel Gilbert",
-    "recommendationRating": 10
+    "recommendationRating": 10,
+    "notesUrl": "https://sive.rs/book/StumblingOnHappiness"
   },
   {
     "title": "E-Myth Revisited - by Michael Gerber",
-    "recommendationRating": 10
+    "recommendationRating": 10,
+    "notesUrl": "https://sive.rs/book/EMythRevisited"
   },
   {
     "title": "How Minds Change - by David McRaney",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/HowMindsChange"
   },
   {
     "title": "How Religion Evolved - by Robin Dunbar",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/ReligionHowEvolved"
   },
   {
     "title": "Nothing & Everything - by Val N. Tine",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/NihilismNE"
   },
   {
     "title": "You Look Like a Thing and I Love You - by Janelle Shane",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/YLLaTaILY"
   },
   {
     "title": "City of Gold: Dubai - by Jim Krane",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/CityOfGold"
   },
   {
     "title": "The Righteous Mind - by Jonathan Haidt",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/RighteousMind"
   },
   {
     "title": "Write Useful Books - by Rob Fitzpatrick",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/WriteUsefulBooks"
   },
   {
     "title": "Wild Problems - by Russ Roberts",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/WildProblems"
   },
   {
     "title": "Relationship Handbook - by George Pransky",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/RelationshipHandbook"
   },
   {
     "title": "The Secrets of Story - by Matt Bird",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/SecretsOfStory"
   },
   {
     "title": "Awaken the Giant Within - by Tony Robbins",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/AwakenGiant"
   },
   {
     "title": "Story - by Robert McKee",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/Story"
   },
   {
     "title": "How Buildings Learn - by Stewart Brand",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/HowBuildingsLearn"
   },
   {
     "title": "Getting Things Done - by David Allen",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/GettingThingsDone"
   },
   {
     "title": "Several Short Sentences About Writing - by Verlyn Klinkenborg",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/ShortSentences"
   },
   {
     "title": "Skin in the Game - by Nassim Nicholas Taleb",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/SkinInTheGame"
   },
   {
     "title": "This Is Marketing - by Seth Godin",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/ThisIsMarketing"
   },
   {
     "title": "Atomic Habits - by James Clear",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/AtomicHabits"
   },
   {
     "title": "Thinking in Bets - by Annie Duke",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/ThinkingInBets"
   },
   {
     "title": "12 Rules for Life - by Jordan Peterson",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/12RulesForLife"
   },
   {
     "title": "Sapiens - by Yuval Noah Harari",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/Sapiens"
   },
   {
     "title": "Happy - by Derren Brown",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/Happy"
   },
   {
     "title": "Au Contraire: Figuring Out the French - by Gilles Asselin and Ruth Mastron",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/AuContraire"
   },
   {
     "title": "The Subtle Art of Not Giving a Fuck - by Mark Manson",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/NotFuck"
   },
   {
     "title": "Ego Is the Enemy - by Ryan Holiday",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/EgoEnemy"
   },
   {
     "title": "Too Soon Old, Too Late Smart: Thirty True Things You Need to Know Now - by Gordon Livingston",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/30TrueThings"
   },
   {
     "title": "Zero to One - by Peter Thiel and Blake Masters",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/ZeroToOne"
   },
   {
     "title": "Cows, Pigs, Wars, and Witches - by Marvin Harris",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/CowsPigsWarsWitches"
   },
   {
     "title": "The Entrepreneur Roller Coaster - by Darren Hardy",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/RollerCoaster"
   },
   {
     "title": "The Wisdom of No Escape - by Pema Chödrön",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/WisdomOfNoEscape"
   },
   {
     "title": "When Things Fall Apart - by Pema Chödrön",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/WhenThingsFallApart"
   },
   {
     "title": "The Compound Effect - by Darren Hardy",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/CompoundEffect"
   },
   {
     "title": "When Cultures Collide - by Richard D. Lewis",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/WhenCulturesCollide"
   },
   {
     "title": "Antifragile - by Nassim Nicholas Taleb",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/Antifragile"
   },
   {
     "title": "The Willpower Instinct - by Kelly McGonigal",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/WillpowerInstinct"
   },
   {
     "title": "Turning Pro - by Steven Pressfield",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/TurningPro"
   },
   {
     "title": "Quiet - by Susan Cain",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/Quiet"
   },
   {
     "title": "Do the Work - by Steven Pressfield",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/DoTheWork"
   },
   {
     "title": "What Got You Here Won't Get You There - by Marshall Goldsmith",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/WhatGotYouThere"
   },
   {
     "title": "A Guide to the Good Life: The Ancient Art of Stoic Joy - by William Irvine",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/StoicJoy"
   },
   {
     "title": "Switch - by Chip Heath and Dan Heath",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/Switch"
   },
   {
     "title": "The Happiness Hypothesis - by Jonathan Haidt",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/HappinessHypothesis"
   },
   {
     "title": "Influence - by Robert Cialdini",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/Influence"
   },
   {
     "title": "Management of the Absurd - by Richard Farson",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/ManagementOfTheAbsurd"
   },
   {
     "title": "The Time Paradox - by Philip Zimbardo and John Boyd",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/TimeParadox"
   },
   {
     "title": "Predictably Irrational - by Dan Ariely",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/PredictablyIrrational"
   },
   {
     "title": "How to Get Rich - by Felix Dennis",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/HowToGetRich"
   },
   {
     "title": "The Ultimate Sales Machine - by Chet Holmes",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/UltimateSalesMachine"
   },
   {
     "title": "The 4-Hour Work Week - by Tim Ferriss",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/4HourWorkWeek"
   },
   {
     "title": "The Smartest Investment Book You'll Ever Read - by Daniel R. Solin",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/SmartestInvestmentBook"
   },
   {
     "title": "The Wisdom of Crowds - by James Surowiecki",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/WisdomOfCrowds"
   },
   {
     "title": "The Paradox of Choice - Why More is Less - by Barry Schwartz",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/ParadoxOfChoice"
   },
   {
     "title": "Made to Stick - by Chip Heath and Dan Heath",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/MadeToStick"
   },
   {
     "title": "The Art of Profitability - by Adrian Slywotzky",
-    "recommendationRating": 9
+    "recommendationRating": 9,
+    "notesUrl": "https://sive.rs/book/ArtOfProfitability"
   },
   {
     "title": "Pragmatism - by William James",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/PragWJames"
   },
   {
     "title": "Complete Idiot’s Guide to Understanding Judaism - by Rabbi Benjamin Blech",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/JudaismCI"
   },
   {
     "title": "Code - by Charles Petzold",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/Code"
   },
   {
     "title": "The Biggest Bluff - by Maria Konnikova",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/BiggestBluff"
   },
   {
     "title": "Philosophy: a Complete Introduction - by Sharon Kaye",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/PhilosophyCI"
   },
   {
     "title": "The Minimalist Entrepreneur - by Sahil Lavingia",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/MinimalistEntrepreneur"
   },
   {
     "title": "Four Thousand Weeks - by Oliver Burkeman",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/4000Weeks"
   },
   {
     "title": "How to Live on 24 Hours a Day - by Arnold Bennett",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/Live24Hrs"
   },
   {
     "title": "How to Think More Effectively - by the School of Life",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/ThinkEffectively"
   },
   {
     "title": "All I Really Need to Know I Learned in Kindergarten - by Robert Fulghum",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/Fulghum1"
   },
   {
     "title": "Nonviolent Communication - by Marshall Rosenberg",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/NonviolentCommunication"
   },
   {
     "title": "Open Borders - by Bryan Caplan",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/OpenBorders"
   },
   {
     "title": "The Practice - by Seth Godin",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/Practice"
   },
   {
     "title": "The Psychology of Money - by Morgan Housel",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/PsychologyMoney"
   },
   {
     "title": "Stillness Is the Key - Ryan Holiday",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/Stillness"
   },
   {
     "title": "Everything Is Fucked - by Mark Manson",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/Fucked"
   },
   {
     "title": "Stubborn Attachments - by Tyler Cowen",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/StubbornAttachments"
   },
   {
     "title": "Watching the English - by Kate Fox",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/WatchingTheEnglish"
   },
   {
     "title": "Story of Philosophy - by Will Durant",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/StoryOfPhilosophy"
   },
   {
     "title": "Innumeracy - by John Allen Paulos",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/Innumeracy"
   },
   {
     "title": "The Dip - by Seth Godin",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/Dip"
   },
   {
     "title": "The Road Less Traveled - by M. Scott Peck",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/RoadLessTraveled"
   },
   {
     "title": "Guns, Germs, and Steel - by Jared Diamond",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/GunsGermsSteel"
   },
   {
     "title": "Steal Like an Artist - by Austin Kleon",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/StealLikeAnArtist"
   },
   {
     "title": "Total Recall - by Arnold Schwarzenegger",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/TotalRecall"
   },
   {
     "title": "A Mind for Numbers - by Barbara Oakley",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/MindForNumbers"
   },
   {
     "title": "Smartcuts - by Shane Snow",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/Smartcuts"
   },
   {
     "title": "Superhuman by Habit - by Tynan",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/SuperhumanByHabit"
   },
   {
     "title": "Mindwise: How We Understand What Others Think, Believe, Feel, and Want - by Nicholas Epley",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/Mindwise"
   },
   {
     "title": "The Obstacle Is the Way - by Ryan Holiday",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/ObstacleIsTheWay"
   },
   {
     "title": "The Antidote: Happiness for People Who Can't Stand Positive Thinking - by Oliver Burkeman",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/Antidote"
   },
   {
     "title": "Decisive - by Chip and Dan Heath",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/Decisive"
   },
   {
     "title": "5 Elements of Effective Thinking - by Edward B. Burger and Michael Starbird",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/EffectiveThinking"
   },
   {
     "title": "The Icarus Deception - by Seth Godin",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/IcarusDeception"
   },
   {
     "title": "So Good They Can't Ignore You - by Cal Newport",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/SoGood"
   },
   {
     "title": "Mastery - by George Leonard",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/Mastery"
   },
   {
     "title": "The Little Book of Talent - by Daniel Coyle",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/LittleBookOfTalent"
   },
   {
     "title": "What Technology Wants - by Kevin Kelly",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/WhatTechnologyWants"
   },
   {
     "title": "Thinking, Fast and Slow - by Daniel Kahneman",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/ThinkingFastAndSlow"
   },
   {
     "title": "Willpower - by Roy Baumeister and John Tierney",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/Willpower"
   },
   {
     "title": "Power of Full Engagement - by Jim Loehr and Tony Schwartz",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/PowerOfFullEngagement"
   },
   {
     "title": "Moonwalking with Einstein - by Joshua Foer",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/MoonwalkingEinstein"
   },
   {
     "title": "Practicing Mind - by Thomas Sterner",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/PracticingMind"
   },
   {
     "title": "The Personal MBA - by Josh Kaufman",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/PersonalMBA"
   },
   {
     "title": "Mindset - by Carol Dweck",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/Mindset"
   },
   {
     "title": "Art and Fear - by David Bayles and Ted Orland",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/ArtAndFear"
   },
   {
     "title": "Drive - by Daniel Pink",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/Drive"
   },
   {
     "title": "The Geography of Bliss - by Eric Weiner",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/GeographyOfBliss"
   },
   {
     "title": "How We Decide - by Jonah Lehrer",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/HowWeDecide"
   },
   {
     "title": "Discover Your Inner Economist - by Tyler Cowen",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/InnerEconomist"
   },
   {
     "title": "The Talent Code - by Daniel Coyle",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/TalentCode"
   },
   {
     "title": "Ignore Everybody - by Hugh MacLeod",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/IgnoreEverybody"
   },
   {
     "title": "Tribes - by Seth Godin",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/Tribes"
   },
   {
     "title": "How to Talk to Anyone - by Leil Lowndes",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/HowToTalkToAnyone"
   },
   {
     "title": "Brain Rules - by John Medina",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/BrainRules"
   },
   {
     "title": "You, Inc - The Art of Selling Yourself - by Harry Beckwith",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/YouInc"
   },
   {
     "title": "The Innovator's Solution - by Clayton Christensen",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/InnovatorsSolution"
   },
   {
     "title": "Small is the New Big - by Seth Godin",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/SmallIsTheNewBig"
   },
   {
     "title": "The 48 Laws of Power - by Robert Greene and Joost Elffers",
-    "recommendationRating": 8
+    "recommendationRating": 8,
+    "notesUrl": "https://sive.rs/book/48LawsOfPower"
   },
   {
     "title": "Swisstory, History of Switzerland - by Laurie Theurer",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/Swisstory"
   },
   {
     "title": "Useful Delusions - by Shankar Vedantam",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/UsefulDelusions"
   },
   {
     "title": "Outlive - by Peter Attia",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/Outlive"
   },
   {
     "title": "Nietzsche: a complete introduction - by Roy Jackson",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/NietzscheCI"
   },
   {
     "title": "What Everyone Needs to Know about Islam - by John L. Esposito",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/IslamWENK"
   },
   {
     "title": "Almost Perfect - by Erika Lemay",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/AlmostPerfect"
   },
   {
     "title": "The Courage to Be Happy - by Ichiro Kishimi and Fumitake Koga",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/Courage2bHappy"
   },
   {
     "title": "Essays and Aphorisms - by Arthur Schopenhauer",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/EssaysAphorisms"
   },
   {
     "title": "Wanting - by Luke Burgis",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/Wanting"
   },
   {
     "title": "Beyond Order - by Jordan Peterson",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/BeyondOrder"
   },
   {
     "title": "The Art of Creative Thinking - by Rod Judkins",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/CreativeThinking"
   },
   {
     "title": "Will - by Will Smith and Mark Manson",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/Will"
   },
   {
     "title": "Cognitive Behavioral Therapy for Dummies - by Rob Willson and Rhena Branch",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/CBDummies"
   },
   {
     "title": "Prisoners of Geography - by Tim Marshall",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/PrisonGeo"
   },
   {
     "title": "Finland Culture Shock - by Deborah Swallow",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/FinlandCS"
   },
   {
     "title": "Life 3.0 - by Max Tegmark",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/Life30"
   },
   {
     "title": "The Consolations of Philosophy - by Alain De Botton",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/ConsolationsOfPhilosophy"
   },
   {
     "title": "The Lessons of History - by Will and Ariel Durant",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/LessonsOfHistory"
   },
   {
     "title": "When - by Daniel Pink",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/When"
   },
   {
     "title": "Perennial Seller - by Ryan Holiday",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/PerennialSeller"
   },
   {
     "title": "Principles - by Ray Dalio",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/Principles"
   },
   {
     "title": "How to Read a Book - by Charles Van Doren and Mortimer Adler",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/HowToReadABook"
   },
   {
     "title": "Grit - by Angela Duckworth",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/Grit"
   },
   {
     "title": "How to Talk So Kids Will Listen & Listen So Kids Will Talk - by Adele Fabe and Elaine Mazlish",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/TalkListenKids"
   },
   {
     "title": "The Inevitable - by Kevin Kelly",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/Inevitable"
   },
   {
     "title": "Peak: Secrets from the New Science of Expertise - by Anders Ericsson",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/Peak"
   },
   {
     "title": "Deep Work - by Cal Newport",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/DeepWork"
   },
   {
     "title": "The Geography of Genius - by Eric Weiner",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/GeographyOfGenius"
   },
   {
     "title": "The Truth - by Neil Strauss",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/TheTruth"
   },
   {
     "title": "Writing Tools - by Roy Peter Clark",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/WritingTools"
   },
   {
     "title": "Fluent Forever - by Gabriel Wyner",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/FluentForever"
   },
   {
     "title": "Geography of Time - by Robert Levine",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/GeographyOfTime"
   },
   {
     "title": "Show Your Work - by Austin Kleon",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/ShowYourWork"
   },
   {
     "title": "How to Learn a Foreign Language - by Paul Pimsleur",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/LearnForeignLanguage"
   },
   {
     "title": "Man's Search for Meaning - by Viktor Frankl",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/MSfM"
   },
   {
     "title": "Choose Yourself! - by James Altucher",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/ChooseYourself"
   },
   {
     "title": "Self Reliance - by Ralph Waldo Emerson",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/SelfReliance"
   },
   {
     "title": "How to Fail at Almost Everything and Still Win Big - by Scott Adams",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/HowToFail"
   },
   {
     "title": "No B.S. Time Management for Entrepreneurs - by Dan S. Kennedy",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/NoBSTime"
   },
   {
     "title": "The Power of Habit - by Charles Duhigg",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/PowerOfHabit"
   },
   {
     "title": "The Passionate Programmer - by Chad Fowler",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/PassionateProgrammer"
   },
   {
     "title": "Poke the Box - by Seth Godin",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/PokeTheBox"
   },
   {
     "title": "The 4-Hour Body - by Tim Ferriss",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/4HourBody"
   },
   {
     "title": "Hackers & Painters - by Paul Graham",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/HackersPainters"
   },
   {
     "title": "I Will Teach You To Be Rich - by Ramit Sethi",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/IWillTeachYouToBeRich"
   },
   {
     "title": "Why Smart People Make Big Money Mistakes - Gilovich and Belsky",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/BigMoneyMistakes"
   },
   {
     "title": "CrowdSourcing - by Jeff Howe",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/Crowdsourcing"
   },
   {
     "title": "The Magic of Thinking Big - by David Schwartz",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/MagicOfThinkingBig"
   },
   {
     "title": "The Art of Learning - by Josh Waitzkin",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/ArtOfLearning"
   },
   {
     "title": "Wikinomics - by Don Tapscott and Anthony Williams",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/Wikinomics"
   },
   {
     "title": "Meatball Sundae - by Seth Godin",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/MeatballSundae"
   },
   {
     "title": "Don't Make Me Think - by Steve Krug",
-    "recommendationRating": 7
+    "recommendationRating": 7,
+    "notesUrl": "https://sive.rs/book/DontMakeMeThink"
   },
   {
     "title": "Israel: A Simple Guide to the Most Misunderstood Country on Earth - by Noa Tishby",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/IsraelMMC"
   },
   {
     "title": "Excellent Advice for Living - by Kevin Kelly",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/AdviceLiving"
   },
   {
     "title": "The Essentials of Hinduism - by Swami Bhaskarananda",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/HinduEss"
   },
   {
     "title": "Delphi Complete Works of William James - by William James",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/WilliamJames"
   },
   {
     "title": "Introducing Pragmatism - by Cornelis de Waal",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/PragmatismIntro"
   },
   {
     "title": "Pragmatism an Introduction - by Michael Bacon",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/Pragmatism"
   },
   {
     "title": "Japanese Mind - by Roger Davies and Osamu Ikeno",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/JapaneseMind"
   },
   {
     "title": "River Out of Eden - by Richard Dawkins",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/RiverOutOfEden"
   },
   {
     "title": "Where Is My Flying Car? - by J Storrs Hall",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/FlyingCar"
   },
   {
     "title": "The Box - by Marc Levinson",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/Box"
   },
   {
     "title": "Before We Go - by Dan John",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/BeforeWeGo"
   },
   {
     "title": "The Beginning of Infinity - by David Deutsch",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/BeginningInfinity"
   },
   {
     "title": "The Art of Possibility - by Rosamund and Benjamin Zander",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/ArtOfPossibility"
   },
   {
     "title": "Pre-Suasion - by Robert Cialdini",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/PreSuasion"
   },
   {
     "title": "The Alter Ego Effect - by Todd Herman",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/AlterEgoEffect"
   },
   {
     "title": "Surviving AI - by Calum Chace",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/SurvivingAI"
   },
   {
     "title": "How Not to Be Wrong - by Jordan Ellenberg",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/NotBeWrong"
   },
   {
     "title": "Die Empty - by Todd Henry",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/DieEmpty"
   },
   {
     "title": "Surely You're Joking, Mr. Feynman! - by Richard Feynman",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/Feynman"
   },
   {
     "title": "Never Split the Difference (Negotiating) - by Chris Voss and Tahl Raz",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/NeverSplit"
   },
   {
     "title": "Getting the Love You Want - by Harville Hendrix",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/GettingLoveYouWant"
   },
   {
     "title": "Homo Deus - by Yuval Noah Harari",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/HomoDeus"
   },
   {
     "title": "How to Live - by Sarah Bakewell",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/HowToLive"
   },
   {
     "title": "Nobody Wants to Read Your Shit - by Steven Pressfield",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/NobodyWants"
   },
   {
     "title": "Living Beautifully with Uncertainty and Change - by Pema Chödrön",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/LivingBeautifully"
   },
   {
     "title": "Give and Take - by Adam M. Grant",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/GiveAndTake"
   },
   {
     "title": "The Bed of Procrustes - by Nassim Nicholas Taleb",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/BedOfProcrustes"
   },
   {
     "title": "Making Ideas Happen - by Scott Belsky",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/MakingIdeasHappen"
   },
   {
     "title": "A Short History of Nearly Everything - by Bill Bryson",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/ShortHistoryNE"
   },
   {
     "title": "Ikigai - by Sebastian Marshall",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/Ikigai"
   },
   {
     "title": "Wired for Story - by Lisa Cron",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/WiredForStory"
   },
   {
     "title": "Pragmatic Programmer - by Andy Hunt and David Thomas",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/PragmaticProgrammer"
   },
   {
     "title": "Meditations - by Marcus Aurelius - translation by C Scot Hicks and David V Hicks",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/Meditations"
   },
   {
     "title": "The Developing World - by Fredrik Härén",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/DevelopingWorld"
   },
   {
     "title": "You Are Not So Smart - by David McRaney",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/NotSoSmart"
   },
   {
     "title": "The Lean Startup - by Eric Ries",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/LeanStartup"
   },
   {
     "title": "Seeking Wisdom - by Peter Bevelin",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/SeekingWisdom"
   },
   {
     "title": "Start Small, Stay Small - by Rob Walling and Mike Taber",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/StartSmallStaySmall"
   },
   {
     "title": "Making a Good Brain Great - by Daniel G. Amen",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/GoodBrainGreat"
   },
   {
     "title": "On Writing - by Stephen King",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/OnWriting"
   },
   {
     "title": "Business Stripped Bare - by Richard Branson",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/BusinessStrippedBare"
   },
   {
     "title": "Talent Is Overrated - by Geoff Colvin",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/TalentIsOverrated"
   },
   {
     "title": "The Investor's Manifesto - by William J. Bernstein",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/InvestorsManifesto"
   },
   {
     "title": "Overachievement - by John Eliot",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/Overachievement"
   },
   {
     "title": "The How of Happiness - by Sonja Lyubomirsky",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/HowOfHappiness"
   },
   {
     "title": "Personal Development for Smart People - by Steve Pavlina",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/PersonalDevelopmentForSmartPeople"
   },
   {
     "title": "The Culture Code - by Clotaire Rapaille",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/CultureCode"
   },
   {
     "title": "The Four Pillars of Investing - by William Bernstein",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/FourPillarsOfInvesting"
   },
   {
     "title": "Here Comes Everybody - by Clay Shirky",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/HereComesEverybody"
   },
   {
     "title": "The Culting of Brands - by Douglas Atkin",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/CultingOfBrands"
   },
   {
     "title": "Maximum Achievement - by Brian Tracy",
-    "recommendationRating": 6
+    "recommendationRating": 6,
+    "notesUrl": "https://sive.rs/book/MaximumAchievement"
   },
   {
     "title": "What's in It for Them? - by Joe Polish",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/ForThem"
   },
   {
     "title": "Everything in Its Place (Work Clean) - by Dan Charnas",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/EverythingPlace"
   },
   {
     "title": "How to Know Everything - by Elke Wiss",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/KnowEverything"
   },
   {
     "title": "The Me, Me, Me Epidemic - by Amy McCready",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/MeMeMe"
   },
   {
     "title": "Attempts - by Dan John",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/Attempts"
   },
   {
     "title": "Consider This - by Chuck Palahniuk",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/ConsiderThis"
   },
   {
     "title": "Scepticism: A Very Short Introduction - by Duncan Pritchard",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/Scepticism"
   },
   {
     "title": "True Style - by G. Bruce Boyer",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/TrueStyle"
   },
   {
     "title": "Brain Rules for Aging Well - by John Medina",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/BrainRulesAging"
   },
   {
     "title": "The Artist's Journey - by Steven Pressfield",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/ArtistsJourney"
   },
   {
     "title": "Swiss Watching - by Diccon Bewes",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/SwissWatching"
   },
   {
     "title": "Mindfulness in Plain English - by Henepola Gunaratana",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/Mindfulness"
   },
   {
     "title": "How Music Works - by David Byrne",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/HowMusicWorks"
   },
   {
     "title": "The Way of the Linguist - by Steve Kaufmann",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/WayOfLinguist"
   },
   {
     "title": "How Adam Smith Can Change Your Life - by Russ Roberts",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/AdamSmith"
   },
   {
     "title": "Daily Rituals: How Artists Work - by Mason Currey",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/DailyRituals"
   },
   {
     "title": "The Story of French - by Jean-Benoit Nadeau and Julie Barlow",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/StoryOfFrench"
   },
   {
     "title": "Island - by Aldous Huxley",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/Island"
   },
   {
     "title": "Ready for Anything - by David Allen",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/ReadyForAnything"
   },
   {
     "title": "Starting Strength - by Mark Rippetoe",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/StartingStrength"
   },
   {
     "title": "The Now Habit - by Neil Fiore",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/NowHabit"
   },
   {
     "title": "Mastery - by Robert Greene",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/Mastery2"
   },
   {
     "title": "Meditation for Beginners - by Jack Kornfield",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/MeditationForBeginners"
   },
   {
     "title": "Fail-Safe Investing - by Harry Browne",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/FailSafeInvesting"
   },
   {
     "title": "Linchpin - by Seth Godin",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/Linchpin"
   },
   {
     "title": "Cognitive Surplus - by Clay Shirky",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/CognitiveSurplus"
   },
   {
     "title": "The Selfish Gene - by Richard Dawkins",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/SelfishGene"
   },
   {
     "title": "Nudge - by Richard Thaler and Cass Sunstein",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/Nudge"
   },
   {
     "title": "Being Logical: A Guide to Good Thinking - by D.Q. McInerny",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/BeingLogical"
   },
   {
     "title": "Pragmatic Thinking and Learning - by Andy Hunt",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/PragmaticThinking"
   },
   {
     "title": "The Great Formula - by Mark Joyner",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/GreatFormula"
   },
   {
     "title": "Lucky Or Smart? - by Bo Peabody",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/LuckyOrSmart"
   },
   {
     "title": "The China Study - by Campbell and Campbell",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/ChinaStudy"
   },
   {
     "title": "Outliers: The Story of Success - by Malcolm Gladwell",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/Outliers"
   },
   {
     "title": "The Power of Less - by Leo Babauta",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/PowerOfLess"
   },
   {
     "title": "Cut to the Chase - by Stuart Levine",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/CutToTheChase"
   },
   {
     "title": "Know-How - by Ram Charan with Geri Willigan",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/KnowHow"
   },
   {
     "title": "The Art of Project Management - Scott Berkun",
-    "recommendationRating": 5
+    "recommendationRating": 5,
+    "notesUrl": "https://sive.rs/book/ProjectManagement"
   },
   {
     "title": "Rebel Talent - by Francesca Gino",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/RebelTalent"
   },
   {
     "title": "The Toilet Paper Entrepreneur - by Mike Michalowicz",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/ToiletPaper"
   },
   {
     "title": "Rich Dad Poor Dad - by Robert Kiyosaki",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/RichDadPoorDad"
   },
   {
     "title": "Pragmatism as a Way of Life - Ruth Anna and Hilary Putnam",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/PragmatismWayOfLife"
   },
   {
     "title": "Loving What Is - by Byron Katie",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/LovingWhatIs"
   },
   {
     "title": "Essays One - by Lydia Davis",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/EssaysOne"
   },
   {
     "title": "Everything Is Obvious - by Duncan Watts",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/EverythingObvious"
   },
   {
     "title": "The Socrates Express - by Eric Weiner",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/SocratesExpress"
   },
   {
     "title": "The Data Detective - by Tim Harford",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/DataDetective"
   },
   {
     "title": "The Philosophy of Cognitive-Behavioural Therapy - by Donald Robertson",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/CBTphilo"
   },
   {
     "title": "The New York Nobody Knows - by William Helmreich",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/NYNobodyK"
   },
   {
     "title": "Barking Up the Wrong Tree - by Eric Barker",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/BarkingUp"
   },
   {
     "title": "Tools of Titans - by Tim Ferriss",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/ToolsTitans"
   },
   {
     "title": "The Only Investment Guide You'll Ever Need - by Andrew Tobias",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/OnlyInvestmentGuide"
   },
   {
     "title": "Germany: Unraveling an Enigma - by Greg Nees",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/GermanyEnigma"
   },
   {
     "title": "Never Let Go - by Dan John",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/NeverLetGo"
   },
   {
     "title": "In Pursuit of Silence - by George Prochnik",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/PursuitOfSilence"
   },
   {
     "title": "The Laws of Subtraction - by Matthew May",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/LawsOfSubtraction"
   },
   {
     "title": "Drop Dead Healthy - by A. J. Jacobs",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/DropDeadHealthy"
   },
   {
     "title": "Little Bets - by Peter Sims",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/LittleBets"
   },
   {
     "title": "One Simple Idea - by Stephen Key",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/OneSimpleIdea"
   },
   {
     "title": "Focus - by Leo Babauta",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/Focus"
   },
   {
     "title": "The Upside of Irrationality - by Dan Ariely",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/UpsideOfIrrationality"
   },
   {
     "title": "Confessions of a Public Speaker - by Scott Berkun",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/ConfessionsPublicSpeaker"
   },
   {
     "title": "The Profit Zone - by Adrian Slywotzky",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/ProfitZone"
   },
   {
     "title": "Never Eat Alone - by Keith Ferrazzi and Tahl Raz",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/NeverEatAlone"
   },
   {
     "title": "What Would Google Do? - by Jeff Jarvis",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/WhatWouldGoogleDo"
   },
   {
     "title": "Speaking of India - by Craig Sorti",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/SpeakingOfIndia"
   },
   {
     "title": "Richard Branson - Losing My Virginity",
-    "recommendationRating": 4
+    "recommendationRating": 4,
+    "notesUrl": "https://sive.rs/book/RichardBranson"
   },
   {
     "title": "UAE Culture Shock - by Gina Crocetti Benesh",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/UAECS1"
   },
   {
     "title": "UAE Culture Smart - by John Walsh",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/UAECS2"
   },
   {
     "title": "Mistakes Were Made (But Not by Me) - by Carol Tavris",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/MistakesWereMade"
   },
   {
     "title": "Useful Belief - Chris Helder",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/UsefulBelief"
   },
   {
     "title": "The Question Behind the Question - by John Miller",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/QBQ"
   },
   {
     "title": "The Tao of Wu - by RZA",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/WuTang"
   },
   {
     "title": "Writing to Learn - by William Zinsser",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/WritingToLearn"
   },
   {
     "title": "Skip the Line - by James Altucher",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/SkipTheLine"
   },
   {
     "title": "The Complacent Class - by Tyler Cowen",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/Complacent"
   },
   {
     "title": "Lying - by Sam Harris",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/Lying"
   },
   {
     "title": "The Daily Stoic - by Ryan Holiday",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/DailyStoic"
   },
   {
     "title": "Leading an Inspired Life - by Jim Rohn",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/InspiredLife"
   },
   {
     "title": "The Drunkard's Walk: How Randomness Rules Our Lives - by Leonard Mlodinow",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/Drunkard"
   },
   {
     "title": "How I Found Freedom in an Unfree World - by Harry Browne",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/FoundFreedomUnfree"
   },
   {
     "title": "The Sense of Style - by Steven Pinker",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/SenseOfStyle"
   },
   {
     "title": "A More Beautiful Question - by Warren Berger",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/MoreBeautifulQuestion"
   },
   {
     "title": "Make It Stick - by Peter Brown",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/MakeItStick"
   },
   {
     "title": "The Power of No - by James and Claudia Altucher",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/PowerOfNo"
   },
   {
     "title": "How to Learn and Memorize French Vocabulary - by Anthony Metivier",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/MemorizeFrench"
   },
   {
     "title": "The Checklist Manifesto - by Atul Gawande",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/ChecklistManifesto"
   },
   {
     "title": "Hiring Smart - by Pierre Mornell",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/HiringSmart"
   },
   {
     "title": "A Gift to My Children - by Jim Rogers",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/GiftToMyChildren"
   },
   {
     "title": "Pomodoro Technique Illustrated - by Staffan Nöteberg",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/Pomodoro"
   },
   {
     "title": "Causing a Scene - by Charlie Todd",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/CausingAScene"
   },
   {
     "title": "Born to Run - by Christopher McDougall",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/BornToRun"
   },
   {
     "title": "Enough - by John Bogle",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/Enough"
   },
   {
     "title": "How to be a Billionaire - by Martin Fridson",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/HowToBeABillionaire"
   },
   {
     "title": "Reality Check - by Guy Kawasaki",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/RealityCheck"
   },
   {
     "title": "Fooled by Randomness - by Nassim Nicholas Taleb",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/FooledByRandomness"
   },
   {
     "title": "The Obsolete Employee - by Michael Russer",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/ObsoleteEmployee"
   },
   {
     "title": "Secrets of the Millionaire Mind - by T. Harv Ecker",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/MillionaireMind"
   },
   {
     "title": "Execution - by Larry Bossidy and Ram Charan",
-    "recommendationRating": 3
+    "recommendationRating": 3,
+    "notesUrl": "https://sive.rs/book/Execution"
   },
   {
     "title": "Complete Idiot’s Guide to Hinduism - by Linda Johnsen",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/HinduCI"
   },
   {
     "title": "100 Ways to Improve Your Writing - by Gary Provost",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/ImproveYourWriting"
   },
   {
     "title": "The Five Rings - by Miyamoto Musashi",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/FiveRings"
   },
   {
     "title": "Aesop’s Fables - translated by George Fyler Townsend",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/Aesop"
   },
   {
     "title": "Fallen Leaves - by Will Durant",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/FallenLeaves"
   },
   {
     "title": "The Good Ancestor - by Roman Krznaric",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/GoodAncestor"
   },
   {
     "title": "The Elements of Style - by William Strunk",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/ElementsOfStyle"
   },
   {
     "title": "Indistractable - by Nir Eyal",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/Indistractable"
   },
   {
     "title": "The Tao of George Carlin - by George Carlin",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/GeorgeCarlinTao"
   },
   {
     "title": "21 Lessons for the 21st Century - by Yuval Noah Harari",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/21Lessons"
   },
   {
     "title": "The Geometry of Wealth - by Brian Portnoy",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/GeometryOfWealth"
   },
   {
     "title": "Peak Performance - by Brad Stulberg and Steve Magness",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/PeakPerformance"
   },
   {
     "title": "Money: Master the Game - by Tony Robbins",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/MoneyMasterTheGame"
   },
   {
     "title": "Simple Rules: How to Thrive in a Complex World - by Donald Sull",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/SimpleRules"
   },
   {
     "title": "Quirkology - by Richard Wiseman",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/Quirkology"
   },
   {
     "title": "Mindware: Tools for Smart Thinking - by Richard Nisbett",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/Mindware"
   },
   {
     "title": "Wilde in America - by David M. Friedman",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/WildeInAmerica"
   },
   {
     "title": "Complexity: A Guided Tour - by Melanie Mitchell",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/Complexity"
   },
   {
     "title": "Your Memory - by Kenneth L. Higbee",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/YourMemory"
   },
   {
     "title": "The Philosophical Baby - by Alison Gopnik",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/PhilosophicalBaby"
   },
   {
     "title": "Hire With Your Head - by Lou Adler",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/HireWithYourHead"
   },
   {
     "title": "The Pleasures and Sorrows of Work - by Alain De Botton",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/PleasuresAndSorrowsOfWork"
   },
   {
     "title": "Born Standing Up - by Steve Martin",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/BornStandingUp"
   },
   {
     "title": "Committed - by Elizabeth Gilbert",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/Committed"
   },
   {
     "title": "What the Dog Saw - by Malcolm Gladwell",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/WhatTheDogSaw"
   },
   {
     "title": "China Road - by Rob Gifford",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/ChinaRoad"
   },
   {
     "title": "Hot Commodities - by Jim Rogers",
-    "recommendationRating": 2
+    "recommendationRating": 2,
+    "notesUrl": "https://sive.rs/book/HotCommodities"
   },
   {
     "title": "The Art of Loving - by Erich Fromm",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/ArtOfLoving"
   },
   {
     "title": "Crush It - by Gary Vaynerchuk",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/CrushIt"
   },
   {
     "title": "Shoe Dog - by Phil Knight",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/ShoeDog"
   },
   {
     "title": "Grow Rich With Peace of Mind - by Napoleon Hill",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/GrowRichPeace"
   },
   {
     "title": "Editing Humanity - by Kevin Davies",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/EditingHumanity"
   },
   {
     "title": "Poking a Dead Frog - by Mike Sacks",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/PokingDeadFrog"
   },
   {
     "title": "And Never Stop Dancing - by Gordon Livingston",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/NeverStopDancing"
   },
   {
     "title": "The Future of Almost Everything - by Patrick Dixon",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/FutureAlmostEverything"
   },
   {
     "title": "Me, Inc. - by Gene Simmons",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/MeInc"
   },
   {
     "title": "Bird by Bird - by Anne Lamott",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/BirdByBird"
   },
   {
     "title": "Program or Be Programmed - by Douglas Rushkoff and Leland Purvis",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/PgOrBPg"
   },
   {
     "title": "The Four Filters Invention of Warren Buffett and Charlie Munger - by Bud Labitan",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/FourFilters"
   },
   {
     "title": "What I Talk About When I Talk About Running - by Haruki Murakami",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/TalkAboutRunning"
   },
   {
     "title": "Confessions of a Serial Entrepreneur - by Stuart Skorman",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/SerialEntrepreneur"
   },
   {
     "title": "Life Without Lawyers - by Philip K. Howard",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/LifeWithoutLawyers"
   },
   {
     "title": "The Productive Programmer - by Neal Ford",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/ProductiveProgrammer"
   },
   {
     "title": "Crash Proof 2.0 - by Peter Schiff",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/CrashProof"
   },
   {
     "title": "Rapt - by Winifred Gallagher",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/Rapt"
   },
   {
     "title": "Radical Honesty - by Brad Blanton",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/RadicalHonesty"
   },
   {
     "title": "A Bull in China - by Jim Rogers",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/BullInChina"
   },
   {
     "title": "Founders at Work - by Jessica Livingston",
-    "recommendationRating": 1
+    "recommendationRating": 1,
+    "notesUrl": "https://sive.rs/book/FoundersAtWork"
   },
   {
     "title": "What Makes Us Human - by GPT-3, Jasmin Wang, and Iain Thomas",
-    "recommendationRating": 0
+    "recommendationRating": 0,
+    "notesUrl": "https://sive.rs/book/AIQ"
   },
   {
     "title": "Musashi - by Eiji Yoshikawa and Charles Terry",
-    "recommendationRating": 0
+    "recommendationRating": 0,
+    "notesUrl": "https://sive.rs/book/Musashi"
   },
   {
     "title": "Seeing What Others Don't - by Gary Klein",
-    "recommendationRating": 0
+    "recommendationRating": 0,
+    "notesUrl": "https://sive.rs/book/SeeingWhatOthersDont"
   },
   {
     "title": "Flex: Do Something Different - by Ben Fletcher and Karen Pine",
-    "recommendationRating": 0
+    "recommendationRating": 0,
+    "notesUrl": "https://sive.rs/book/DoSomethingDifferent"
   },
   {
     "title": "Cambodia's Curse - by Joel Brinkley",
-    "recommendationRating": 0
+    "recommendationRating": 0,
+    "notesUrl": "https://sive.rs/book/CambodiaCurse"
   },
   {
     "title": "Conspiracy of the Rich - Robert Kiyosaki",
-    "recommendationRating": 0
+    "recommendationRating": 0,
+    "notesUrl": "https://sive.rs/book/ConspiracyOfTheRich"
   },
   {
     "title": "The Think Big Manifesto - by Michael Port and Mina Samuels",
-    "recommendationRating": 0
+    "recommendationRating": 0,
+    "notesUrl": "https://sive.rs/book/ThinkBigManifesto"
   }
 ]

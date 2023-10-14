@@ -3,6 +3,7 @@ import { load } from "cheerio";
 type Book = {
   title: string;
   recommendationRating: number;
+  notesUrl: string;
 };
 
 async function getBookDetails(url: string) {
@@ -22,10 +23,14 @@ async function getBookDetails(url: string) {
       let book: Book = {
         title: "",
         recommendationRating: 0,
+        notesUrl: "",
       };
 
       // Get the title from the data-title attribute
       book.title = $(element).attr("data-title") || "";
+      book.notesUrl =
+        "https://sive.rs" + $(element).find("a[href^='/book']").attr("href") ||
+        "";
 
       // Get the rating from the data-rating attribute
       let rating = $(element).attr("data-rating");
